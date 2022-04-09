@@ -1,2 +1,3 @@
-console.log(`taki`)
-console.log(`youcef`)
+console.log(`taki`);
+console.log(`youcef`);
+const taki = `taki`;
